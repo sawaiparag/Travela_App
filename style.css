@@ -1,0 +1,190 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.head{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-weight: bolder;
+    
+}
+
+header{
+
+    background-image: url(/images/bg.png);
+    padding: 15px;
+    width: 1365px;
+    height: 598px;
+}
+.nav-item-one{
+    text-decoration: none;
+    margin-left: 10px;
+}
+.nav-item{
+    text-decoration: none;
+    margin-left: 20px;
+    color: black;
+}
+
+nav{
+    margin-left: 520px;
+}
+
+
+.bttn{
+    padding: 1.3em 2.9em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color: #ffffff;
+    background-color: #0004ff;
+    border-radius: 0%;
+    border-width: 0ch;
+    font-size: medium;
+     border-radius: 15px;
+    margin-left: 580px;
+    margin-top: 60px;
+}
+
+
+
+select{
+    margin-top: 20px;
+    padding: 0.6em 1.7em;
+    border-radius:7px;
+    border-color: #f1f1f1;
+    border-width: 4px;
+    
+  }
+
+
+
+
+
+  .calen{
+    padding: 0.5em 0.0em;
+    margin-top: 20px;
+    border-radius:7px;
+    border-color: #f1f1f1;
+    border-width: 4px;
+    
+  }
+
+  .mem{
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    padding: 0.8em 0.9em;
+    border-radius:7px;
+    border-color: #f1f1f1;
+    border-width: 8px;
+    background-color: #d5e9e9;
+    
+    
+  }
+
+  .cardone{
+    display: flex;
+    margin-top: 60px;
+    margin-left:120px;
+    gap: 100px;
+    padding: 30px;
+  }
+  
+  .imgone{
+    width: 330px;
+height: 313px;
+  }
+
+.amaz{
+    font-family: sans-serif ;
+    font-weight: 900;
+    font-variant: normal;
+    color: #0A1954;
+}
+
+.world{
+    margin-left: 70px;
+    margin-top: 49px;
+    font-family: sans-serif ;
+    font-weight: 900;
+    font-variant: normal;
+    font-size: 40px;
+    color: #0A1954;
+}
+
+.view{
+    padding: 1.2em 2.9em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color: #ffffff;
+    background-color: #0004ff;
+    border-radius: 0%;
+    border-width: 0ch;
+    font-size: medium;
+    border-radius: 15px;
+    float: right;
+    margin-right: 80px;
+    margin-top: -50px;
+}
+
+.bus{
+    display: flex;
+}
+
+.wonder{
+margin-left: 80px;
+width: 240px;
+height: 240px;
+
+
+}
+
+.wondername{
+    margin-top: 10px;
+    margin-left: 140px;
+    font-family: sans-serif ;
+    font-size: 15px;
+    font-weight: bolder;
+    color: #0A1954;
+    
+}
+
+
+
+.cardthree{
+    margin-top: 40px;
+    text-align: center;
+    font-family: sans-serif ;
+    color: #0A1954;
+    font-weight: 900;
+    font-variant: normal;
+    font-size: 40px;
+}
+
+.car{
+
+    width: 50%;
+    height: 10%;
+    background-color: white;
+    padding: 1em 2em;
+    border: 2px solid #CAD6EC;
+    box-shadow: 0px 50px 94px rgba(0, 61, 153, 0.06);
+    border-radius: 30px;
+}
+
+.card:hover {
+    
+        background-color: #0432ff;
+        color: #ffffff;
+
+}
