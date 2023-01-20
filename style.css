@@ -95,7 +95,6 @@ select{
   .cardone{
     display: flex;
     margin-top: 60px;
-    margin-left:120px;
     gap: 100px;
     padding: 30px;
   }
@@ -103,9 +102,11 @@ select{
   .imgone{
     width: 330px;
 height: 313px;
+
   }
 
 .amaz{
+    
     font-family: sans-serif ;
     font-weight: 900;
     font-variant: normal;
